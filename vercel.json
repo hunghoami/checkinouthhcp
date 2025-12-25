@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    { 
+      "source": "/(.*)", 
+      "destination": "LINK_GOOGLE_SCRIPT_CUA_BAN", 
+      "permanent": true 
+    }
+  ]
+}
