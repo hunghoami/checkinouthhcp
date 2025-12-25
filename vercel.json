@@ -2,7 +2,7 @@
   "redirects": [
     { 
       "source": "/(.*)", 
-      "destination": "LINK_GOOGLE_SCRIPT_CUA_BAN", 
+      "destination": "https://script.google.com/macros/s/AKfycbxfqvBpaoJKSyUo6bSr2W0sPzDpC1wE9Nn7JhhbmD8hjTFe8U_oiZkAR2idpspgJSuKlg/exec", 
       "permanent": true 
     }
   ]
